@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/jcombari/jcombari/blob/master/Avatar_JC." width="200" height="200" alt="A 200x200 image">
+<img src="https://github.com/jcombari/jcombari/blob/main/Avatar_JC.png" width="200" height="200" alt="A 200x200 image">
 
 - 🌱 I’m currently learning on  Deep Learnin and, Natural Language Processing (NLP)
 
