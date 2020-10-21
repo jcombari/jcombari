@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning on  Deep Learnin and, Natural Language Processing (NLP)
+
 <!--
 **jcombari/jcombari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
