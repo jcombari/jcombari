@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ### How to reach me 📱
 
-[src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/jennyfercombariza/)
+[src="https://github.com/jcombari/jcombari/blob/main/linkedin-circled.png"/>](https://www.linkedin.com/in/jennyfercombariza/)
