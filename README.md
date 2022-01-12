@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 
 ### How to reach me 📱
-* [<img src="https://github.com/jcombari/jcombari/blob/main/linkedin-circled.png"/>](https://www.linkedin.com/in/jennyfercombariza/)
-* [<img src="https://github.com/jcombari/jcombari/blob/main/kisspng-google-search-google-analytics-marketing-business-google-scholar-logo-5b4c8647e1f404.7173265615317417679255.png" width="20" height="20" />](https://scholar.google.es/citations?user=bJBYlTQAAAAJ&amp;hl=es/)
+* [<img src="https://github.com/jcombari/jcombari/blob/main/linkedin-circled.png" width="50" height="50"/>](https://www.linkedin.com/in/jennyfercombariza/)
+* [<img src="https://github.com/jcombari/jcombari/blob/main/kisspng-google-search-google-analytics-marketing-business-google-scholar-logo-5b4c8647e1f404.7173265615317417679255.png" width="50" height="50" />](https://scholar.google.es/citations?user=bJBYlTQAAAAJ&amp;hl=es/)
 * <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-2200-7732" href="https://orcid.org/0000-0003-2200-7732" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> https://orcid.org/0000-0003-2200-7732</a></div>
