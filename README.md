@@ -3,7 +3,7 @@
 <img src="https://github.com/jcombari/jcombari/blob/main/Avatar_JC.png" width="200" height="200" alt="A 200x200 image">
  Pythonist!
 
-- 🔭 I’m currently working on Postdoctoral Research
+- 🔭  Science Communicator and Data Scientist passionate about artificial intelligence, with a mission to make advancements in AI and data science accessible to both experts and the general public.
 
 - 🌱 I’m learning about Deep Learning and Natural Language Processing (NLP)
 
