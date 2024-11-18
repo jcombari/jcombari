@@ -5,8 +5,6 @@
 
 - 🔭  Science Communicator and Data Scientist passionate about artificial intelligence, with a mission to make advancements in AI and data science accessible to both experts and the general public.
 
-- 🌱 I’m learning about Deep Learning and Natural Language Processing (NLP)
-
 - 👯 I’m looking to collaborate on true inclusion of neurodiversity in the workforce.
 
 <!--
