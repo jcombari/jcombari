@@ -1,4 +1,4 @@
-### Hi there 👋
+### AI accessible for everyone💻|Join the adventure!🚀#ScienceCommunication #TechTok
 
 <img src="https://github.com/jcombari/jcombari/blob/main/Avatar_JC.png" width="200" height="200" alt="A 200x200 image">
  Pythonist!
