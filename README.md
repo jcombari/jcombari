@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ### How to reach me 📱
-* [<img src="https://github.com/jcombari/jcombari/blob/main/linkedin-circled.png" width="30" height="30"/>](https://www.linkedin.com/in/jennyfercombariza/)
+* [<img src="https://github.com/jcombari/jcombari/blob/main/linkedin-circled.png" width="30" height="30"/>](https://www.linkedin.com/in/jennyfercombariza/recent-activity/all/)
 * [<img src="https://github.com/jcombari/jcombari/blob/main/kisspng-google-search-google-analytics-marketing-business-google-scholar-logo-5b4c8647e1f404.7173265615317417679255.png" width="50" height="30" />](https://scholar.google.es/citations?user=bJBYlTQAAAAJ&amp;hl=es/)
 *   <a
     id="cy-effective-orcid-url"
