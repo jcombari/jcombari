@@ -1,8 +1,8 @@
 # AI Accessible for Everyone 💻 | Join the Adventure! 🚀
 
-![Profile Avatar](https://github.com/jcombari/jcombari/blob/main/Avatar_JC.png)
+<img src="https://github.com/jcombari/jcombari/blob/main/Avatar_JC.png" width="100" height="100" alt="Avatar Image">  <!-- Avatar pequeño -->
 
-Hi, I'm **Jenn** – a passionate **Science Communicator 🧠** and **Data Scientist 💻** on a mission to make the latest advancements in **Artificial Intelligence (AI)** and **Data Science** accessible to everyone. Whether you're an expert or just starting out, I believe in **transforming complex concepts into clear, understandable ideas**. 🌍
+Hi, I'm **[Your Name]** – a passionate **Science Communicator 🧠** and **Data Scientist 💻** on a mission to make the latest advancements in **Artificial Intelligence (AI)** and **Data Science** accessible to everyone. Whether you're an expert or just starting out, I believe in **transforming complex concepts into clear, understandable ideas**. 🌍
 
 ## About Me 🌟
 
@@ -31,14 +31,17 @@ I'm always looking for collaboration opportunities in these areas:
 
 ## How to Reach Me 📱 | ¿Cómo contactarme? 📱
 
-- [LinkedIn](https://www.linkedin.com/in/jennyfercombariza/recent-activity/all/)  
-  ![LinkedIn](https://github.com/jcombari/jcombari/blob/main/linkedin-circled.png)
-  
-- [Google Scholar](https://scholar.google.es/citations?user=bJBYlTQAAAAJ&amp;hl=es/)  
-  ![Google Scholar](https://github.com/jcombari/jcombari/blob/main/kisspng-google-search-google-analytics-marketing-business-google-scholar-logo-5b4c8647e1f404.7173265615317417679255.png)
+- [![LinkedIn](https://github.com/jcombari/jcombari/blob/main/linkedin-circled.png)](https://www.linkedin.com/in/jennyfercombariza/recent-activity/all/)  
+  <!-- LinkedIn logo pequeño -->
+
+- [![Google Scholar](https://github.com/jcombari/jcombari/blob/main/kisspng-google-search-google-analytics-marketing-business-google-scholar-logo-5b4c8647e1f404.7173265615317417679255.png)](https://scholar.google.es/citations?user=bJBYlTQAAAAJ&amp;hl=es/)  
+  <!-- Google Scholar logo pequeño -->
 
 - [ORCID iD](https://orcid.org/0000-0003-2200-7732)  
-  ![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)
+  <a href="https://orcid.org/0000-0003-2200-7732" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top">
+    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="20" height="20" alt="ORCID iD icon" />
+  </a>  
+  <!-- ORCID logo pequeño -->
 
 ## Fun Facts 🤩 | Datos curiosos 🤩
 
@@ -51,5 +54,3 @@ I'm always looking for collaboration opportunities in these areas:
 Stay tuned for my latest updates on **Data Science**, **AI**, **Machine Learning**, and more. Don't hesitate to follow, ask questions, and get involved – let's learn and grow together!
 
 **#ScienceCommunication #AI #MachineLearning #DeepLearning #Python #R #DataScience #Neurodiversity #AWS #CloudPractitioner #InclusiveTech #TechForGood**
-
-
