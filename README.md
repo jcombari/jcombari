@@ -2,7 +2,7 @@
 
 ![Profile Avatar](https://github.com/jcombari/jcombari/blob/main/Avatar_JC.png)
 
-Hi, I'm **[Jenn]** – a passionate **Science Communicator 🧠** and **Data Scientist 💻** on a mission to make the latest advancements in **Artificial Intelligence (AI)** and **Data Science** accessible to everyone. Whether you're an expert or just starting out, I believe in **transforming complex concepts into clear, understandable ideas**. 🌍
+Hi, I'm **Jenn** – a passionate **Science Communicator 🧠** and **Data Scientist 💻** on a mission to make the latest advancements in **Artificial Intelligence (AI)** and **Data Science** accessible to everyone. Whether you're an expert or just starting out, I believe in **transforming complex concepts into clear, understandable ideas**. 🌍
 
 ## About Me 🌟
 
