@@ -31,17 +31,22 @@ I'm always looking for collaboration opportunities in these areas:
 
 ## How to Reach Me 📱 | ¿Cómo contactarme? 📱
 
-- [![LinkedIn](https://github.com/jcombari/jcombari/blob/main/linkedin-circled.png)](https://www.linkedin.com/in/jennyfercombariza/recent-activity/all/)  
-  <!-- LinkedIn logo pequeño -->
+* [<img src="https://github.com/jcombari/jcombari/blob/main/linkedin-circled.png" width="30" height="30"/>](https://www.linkedin.com/in/jennyfercombariza/recent-activity/all/)
+* [<img src="https://github.com/jcombari/jcombari/blob/main/kisspng-google-search-google-analytics-marketing-business-google-scholar-logo-5b4c8647e1f404.7173265615317417679255.png" width="50" height="30" />](https://scholar.google.es/citations?user=bJBYlTQAAAAJ&amp;hl=es/)
+*   <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0003-2200-7732"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0003-2200-7732
+    </a>
 
-- [![Google Scholar](https://github.com/jcombari/jcombari/blob/main/kisspng-google-search-google-analytics-marketing-business-google-scholar-logo-5b4c8647e1f404.7173265615317417679255.png)](https://scholar.google.es/citations?user=bJBYlTQAAAAJ&amp;hl=es/)  
-  <!-- Google Scholar logo pequeño -->
-
-- [ORCID iD](https://orcid.org/0000-0003-2200-7732)  
-  <a href="https://orcid.org/0000-0003-2200-7732" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top">
-    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="20" height="20" alt="ORCID iD icon" />
-  </a>  
-  <!-- ORCID logo pequeño -->
 
 ## My Active Repositories 🚀 | Mis repositorios activos 🚀
 
