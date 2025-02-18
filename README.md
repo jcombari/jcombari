@@ -8,13 +8,13 @@ Hi, I'm **Jenn** – a passionate **Science Communicator 🧠** and **Data Scien
 
 I have many repositories, but these are the most active ones where you can see my portfolio:
 
-### 🔥 [DataScienceIn5Minutes](https://github.com/Jennyfer/DataScienceIn5Minutes)
+### 🔥 [DataScienceIn5Minutes](https://github.com/jcombari/DataScienceIn5Minutes)
 🚀 *Tech Made Simple!* Bite-sized insights into Data Science, ML, and AI. 
 
-### 🤖 [AI-For-Unstructured-Data](https://github.com/Jennyfer/AI-For-Unstructured-Data)
+### 🤖 [AI-For-Unstructured-Data](https://github.com/jcombari/AI-For-Unstructured-Data)
 🌍 AI applications for text, images, audio, video, and more! Hands-on projects included.  
 
-### 🐍 [PyForAll](https://github.com/Jennyfer/PyForAll)
+### 🐍 [PyForAll](https://github.com/jcombari/PyForAll)
 ✨ Making Python accessible for everyone! Tutorials, projects, and insights.  
 
 ## About Me 🌟
