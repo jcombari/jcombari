@@ -17,7 +17,7 @@ I have many repositories, but these are the most active ones where you can see m
 ### 🐍 [PyForAll](https://github.com/jcombari/PyForAll)
 ✨ Making Python accessible for everyone! Tutorials, projects, and insights.  
 
-### 🐍 [RForAll](https://github.com/jcombari/RForAll)
+### 📘📊 [RForAll](https://github.com/jcombari/RForAll)
 ✨ Making R accessible for everyone! Tutorials, projects, and insights.  
 
 ## About Me 🌟
