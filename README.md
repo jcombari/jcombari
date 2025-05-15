@@ -20,6 +20,9 @@ I have many repositories, but these are the most active ones where you can see m
 ### 📘📊 [RForAll](https://github.com/jcombari/RForAll)
 ✨ Making R accessible for everyone! Tutorials, projects, and insights.  
 
+⚠️ This repository was created and is maintained by Jennyfer Combariza.
+If you'd like to share it, please use the original link. Republishing this content as your own is not allowed.
+
 ## About Me 🌟
 
 🔭 **Science Communicator & Data Scientist** – Making AI and Data Science approachable for everyone.  
